@@ -29,7 +29,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 9. use project and build all 
 
 10. once the project is bulild 
-![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
 11. click on debug option 
 
